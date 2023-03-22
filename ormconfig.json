@@ -6,7 +6,7 @@
     "database": "test",
     "useUnifiedTopology": true,
     "entities": [
-      "src/entities/**/*.ts"
+      "src/entities/*.ts"
     ],
     "logging": true
 }
